@@ -52,7 +52,7 @@ Give an example
 **AWS lambda deployment**
 
 ```
-dotnet lambda deploy-serverless --stackname WebApi --s3-bucket <CUSTOM_BUCKET_NAME>
+dotnet lambda deploy-serverless --stackname WebApi --s3-bucket <YOUR_CUSTOM_BUCKET_NAME>
 ```
 ## Environment Setup
 
